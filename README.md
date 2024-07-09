@@ -97,6 +97,7 @@ Berikut adalah beberapa referensi yang dipakai:
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[MySQL-url]: https://www.mysql.com/
 [MySQL]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [instagram]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
