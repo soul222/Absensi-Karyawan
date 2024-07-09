@@ -82,7 +82,7 @@ Aplikasi ini mampu menyajikan seluruh data karyawan, hak akses karyawan, permoho
     ```
 5. Untuk mulai menggunakan aplikasi kita kamu dapat mengunjungi [http:/localhost:8000](http:/localhost:8000)
 6. Catatan
-   - email admintrator:
+- email admintrator:
     ```
     admin@gmail.com
     ```
@@ -90,7 +90,7 @@ Aplikasi ini mampu menyajikan seluruh data karyawan, hak akses karyawan, permoho
     ```
     admin123
     ```
-   - email user:
+- email user:
     ```
     user@gmail.com
     ```
@@ -98,7 +98,7 @@ Aplikasi ini mampu menyajikan seluruh data karyawan, hak akses karyawan, permoho
     ```
     user123
     ```
-   - email (Jika menambah data karyawan):
+- email (Jika menambah data karyawan):
     ```
     sesuai dengan input yang ditambahkan
     ```
