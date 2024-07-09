@@ -43,7 +43,6 @@ Aplikasi ini mampu menyajikan seluruh data karyawan, hak akses karyawan, permoho
 
 -   PHP 8.1
 -   Laravel 10
--   
 
 ### 👣 Langkah Instalasi
 
@@ -91,7 +90,7 @@ Berikut adalah beberapa referensi yang dipakai:
 -   [PHP]([https://nodejs.org/en](https://www.php.net/)
 
 
-## Jangan Lupa Mampir dan Lihat Live Demo
+## Jangan Lupa Mampir
 
 [![instagram][instagram]](https://www.instagram.com/sultan_amirulmukminin/)
 
