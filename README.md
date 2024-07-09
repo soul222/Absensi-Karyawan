@@ -81,6 +81,31 @@ Aplikasi ini mampu menyajikan seluruh data karyawan, hak akses karyawan, permoho
     php artisan serve
     ```
 5. Untuk mulai menggunakan aplikasi kita kamu dapat mengunjungi [http:/localhost:8000](http:/localhost:8000)
+6. Catatan
+   - email admintrator:
+    ```
+    admin@gmail.com
+    ```
+    password:
+    ```
+    admin123
+    ```
+   - email user:
+    ```
+    user@gmail.com
+    ```
+    passsword:
+    ```
+    user123
+    ```
+   - email (Jika menambah data karyawan):
+    ```
+    sesuai dengan input yang ditambahkan
+    ```
+    password:
+    ```
+    user2023
+    ```
 
 ## 📙 Referensi
 
