@@ -87,7 +87,7 @@ Aplikasi ini mampu menyajikan seluruh data karyawan, hak akses karyawan, permoho
 Berikut adalah beberapa referensi yang dipakai:
 
 -   [Laravel](https://laravel.com/docs/)
--   [PHP](https://nodejs.org/en](https://www.php.net/)
+-   [PHP](https://www.php.net/)
 
 
 ## Jangan Lupa Mampir
